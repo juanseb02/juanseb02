@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sebastian
 
-<!--
-**juanseb02/juanseb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Concordia University interested in:
 
-Here are some ideas to get you started:
+- Embedded Systems
+- Robotics
+- Autonomous Systems
+- Hardware–Software Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building systems that combine sensors, control algorithms, and embedded programming.
+
+## Projects
+
+### Autonomous Hovercraft Platform
+Embedded robotics project where I designed and programmed a small hovercraft capable of navigating a test course using onboard sensors and microcontroller-based control.
+
+Technologies:
+C/C++, Embedded Systems, Microcontrollers, Sensor Integration
